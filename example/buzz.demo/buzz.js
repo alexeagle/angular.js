@@ -1,0 +1,4 @@
+function BuzzController(){
+}
+BuzzController.prototype = {
+};
